@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->post('${1:name}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>input_post</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php, source.php.embedded.block.html</scope>
+	<description>CI - Form Helper - Input Post</description>
+</snippet>
